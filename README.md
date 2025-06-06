@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUBHAM</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhambhoi01&label=Profile%20views&color=0e75b6&style=flat" alt="subhambhoi01" /> </p>
